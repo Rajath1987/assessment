@@ -1,0 +1,20 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "assessment script",
+  "main": "samplescript.js",
+  "scripts": {
+    "start": "node samplescript.js"
+  },
+  "repository": {
+    "type": "git",
+   }
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Rajath",
+  
+  "devDependencies": { "test": ">=0.6.0" }
+}
