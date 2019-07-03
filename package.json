@@ -7,7 +7,7 @@
     "start": "node samplescript.js"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
    }
   "keywords": [
     "node",
