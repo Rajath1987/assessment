@@ -7,7 +7,8 @@
     "start": "node samplescript.js"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/Rajath1987/assessment"
    },
   "keywords": [
     "node",
@@ -15,6 +16,6 @@
     "dockerfile"
   ],
   "author": "Rajath",
-  
+  "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
