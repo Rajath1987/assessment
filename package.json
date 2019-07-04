@@ -15,7 +15,7 @@
     "docker",
     "dockerfile"
   ],
-  "author": "Rajath",
+  "author": "Not Required",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
