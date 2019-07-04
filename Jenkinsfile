@@ -9,7 +9,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = docker.build("rajath1987/assessment")
+        app = docker.build("assessment01")
     }
 
    
