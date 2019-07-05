@@ -1,0 +1,21 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "assessment script",
+  "main": "samplescript.js",
+  "scripts": {
+    "start": "node samplescript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rajath1987/assessment"
+   },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Rajath",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
